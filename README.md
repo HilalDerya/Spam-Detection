@@ -49,6 +49,7 @@ Since my data set is unbalanced, in some transformers I did undersampling in the
 
 I extracted ROC Curve, confusion matrix, training and evaluation loss graphs of the project after training. 
 Graphs of the BERT transformer:
+
 ![bertConfusionMatrix](https://github.com/HilalDerya/Spam-Detection/assets/69717650/ff7fbfcd-ebd5-4139-8037-f64180a3403b)
 ![bertLoss](https://github.com/HilalDerya/Spam-Detection/assets/69717650/043201cb-33a0-4809-b38e-3b8e6393a711)
 ![bertROC](https://github.com/HilalDerya/Spam-Detection/assets/69717650/9e3d2856-5baf-40c0-84e5-3b3cc81650d1)
