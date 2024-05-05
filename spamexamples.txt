@@ -1,0 +1,66 @@
+spam = """
+Merhaba Sayın Kullanıcı
+
+Hesabınızdaki bir gönderide bir telif hakkı ihlali tespit edildi. Telif hakkı ihlalinin yanlış olduğunu düşünüyorsanız, geri bildirim sağlamalısınız. Aksi takdirde hesabınız 24 saat içinde kapatılacaktır.
+
+Aşağıdaki bağlantıdan geri bildirimde bulunabilirsiniz.
+
+Anlayışınız için teşekkürler.
+
+Form: http://coldveirfyservice.com/marn/
+
+Formu dikkatlice doldurduktan sonra, e-postanıa gelen yanıtı 0-12 saat içinde inceleyin.
+"""
+-------------------------------------------------------------------------------------------
+
+spam = """
+bit.ly/2R4cgjb
+
+Kamuoyuna Duyuru
+
+Kredi kartı kullanan tüm vatandaşlarımızın aidat iadesi 4395 sayılı kanun gereğince 10.000 TL'ye kadar anında iadesi yapılmaktadır.
+
+Kredi kartınızın aidat iadesini almak için;
+Yukarıdaki linke tıklayıp işleminizi gerçekleştirebilirsiniz.
+"""
+-------------------------------------------------------------------------------------------
+
+spam = """
+Sevgili Facebook kullanıcısı,
+
+Çevrimiçi geçirdiğin zamanı daha eğlenceli kılmak için Facebook yeni bir giriş yap sistemi üzerinde çalışıyor. Bu yenilikler yeni özellikler ve daha güvenli bir hesap yönetimi sunuyor.
+Yeni giriş yap sistemini kullanmadan önce hesabını güncellemen gerekmektedir.
+Buradaki linke tıklayarak hesabını güncelleyebilirsin.
+
+Eğer herhangi bir sorun varsa yeni Kullanıcı Kılavuzuna bakabilirsin.
+
+Teşekkürler,
+Dacebook Takımı
+"""
+---------------------------------------------------------------------------------------------
+
+spam değil = """
+Türkiye'nin geleceğini yazmaya ve genç yeteneklere destek olmaya devam ediyoruz!
+
+Gençlere Yatırım Geleceğe Yazılım 3.0 programımızı tanıtmaktan büyük bir mutluluk duyuyoruz.
+
+Gençlere Yatırım Geleceğe Yazılım 3.0 programı, geleceğin teknoloji liderlerini yetiştirmek ve gençlerimizi en son teknolojilerle buluşturmak amacıyla oluşturuldu.
+
+Program, lisans 3. sınıf, lisans 4. sınıf, yüksek lisans, doktora öğrencileri ve yeni mezunlar için açıktır.
+
+Bu programda senin için neler var?	
+5 farklı teknoloji alanında (Swift, Kotlin, Java, Analist ve Front-End) eğitim alarak kendini geliştirme fırsatı bulacaksın.	
+Proje tabanlı öğrenme ve özel ödevlerle pratik deneyim kazanma şansını elde edeceksin.	
+Birebir mentorluk desteği, kariyerine yön vermene yardımcı olacak.
+Turkcell Grup Şirketlerinde istihdam fırsatları yakalayacaksın.
+
+Geleceği yazılımla şekillendirmek ve kariyerine bu heyecan verici yolculukla başlamak için https://gelecegiyazanlar.turkcell.com.tr/gelecegi-yazanlar adresini ziyaret edebilirsin.
+
+Ayrıca, programla ilgili en güncel bilgilere ulaşmak için sosyal medya hesaplarımızdan Geleceği Yazanlar'ı takip edebilirsin.
+
+Seni bu heyecan verici programımızda görmek için sabırsızlanıyoruz.
+
+Sen de katıl Türkiye'nin geleceğini birlikte yazalım!
+
+Turkcell Geleceği Yazanlar Ekibi
+"""
